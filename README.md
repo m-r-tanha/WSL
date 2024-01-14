@@ -17,3 +17,14 @@ pip3 install jupyter
 ### Create a directory under root / and chown to your user:
   - sudo mkdir /project
   - sudo chown $USER:$USER /project
+
+### How to Copy Files from Windows 10 to Windows Sub-System for Linux and vice versa
+- pwd
+- mkdir test
+- cd /mnt
+- ls -l
+- cd I (it is a partition in Windows)
+- ls -l
+- /mnt/i$ cd 'a folder name'
+- cp * /home/m_r_tanha/test
+- cd
