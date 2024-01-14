@@ -28,3 +28,4 @@ pip3 install jupyter
 - /mnt/i$ cd 'a folder name'
 - cp * /home/m_r_tanha/test
 - cd
+- Or use WinSCP (https://linuxhint.com/copy-files-from-windows-ubuntu-wsl-same-host/)
