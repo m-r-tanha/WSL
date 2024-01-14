@@ -32,3 +32,5 @@ pip3 install jupyter
 ### Error: -bash: ./configure: Permission denied
 - chmod +x configure
 - ls -l configure
+### This command grants read, write, and execute permissions to everyone
+-chmod -R 777 /path/to/folder
