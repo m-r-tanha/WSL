@@ -29,3 +29,6 @@ pip3 install jupyter
 - cp * /home/m_r_tanha/test
 - cd
 - Or use WinSCP (https://linuxhint.com/copy-files-from-windows-ubuntu-wsl-same-host/)
+### Error: -bash: ./configure: Permission denied
+- chmod +x configure
+- ls -l configure
