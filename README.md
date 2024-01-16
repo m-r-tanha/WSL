@@ -34,3 +34,6 @@ pip3 install jupyter
 - ls -l configure
 ### This command grants read, write, and execute permissions to everyone
 -chmod -R 777 /path/to/folder
+
+### run Jupyterin Ubunto
+- python3 -m notebook
