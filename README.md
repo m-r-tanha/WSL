@@ -37,3 +37,6 @@ pip3 install jupyter
 
 ### run Jupyterin Ubunto
 - python3 -m notebook
+### Active and run Conda
+- source ~/anaconda3/bin/activate
+- 
