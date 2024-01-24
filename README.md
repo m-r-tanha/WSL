@@ -44,3 +44,5 @@ pip3 install jupyter
 ### Active and run Conda
 - source ~/anaconda3/bin/activate
 - 
+### open explorer from Linux
+- explorer.exe .
