@@ -36,6 +36,10 @@ pip3 install jupyter
 -chmod -R 777 /path/to/folder
 
 ### run Jupyterin Ubunto
+
+### create and active environment in Ubuntu
+- python3 -m venv myenv
+- source myenv/bin/activate
 - python3 -m notebook
 ### Active and run Conda
 - source ~/anaconda3/bin/activate
