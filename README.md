@@ -49,3 +49,8 @@ pip3 install jupyter
 - 
 ### open explorer from Linux
 - explorer.exe .
+### edit a file in Ubuntu
+- nano ~/.bashrc
+- Make your changes in the file.
+- To save the changes, press Ctrl + O, then press Enter.
+- To exit Nano, press Ctrl + X.
