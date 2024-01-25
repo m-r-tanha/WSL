@@ -41,6 +41,9 @@ pip3 install jupyter
 - python3 -m venv myenv
 - source myenv/bin/activate
 - python3 -m notebook
+
+- deactivate
+
 ### Active and run Conda
 - source ~/anaconda3/bin/activate
 - 
