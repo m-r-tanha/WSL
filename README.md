@@ -36,6 +36,7 @@ pip3 install jupyter
 -chmod -R 777 /path/to/folder
 
 ### run Jupyterin Ubunto
+- jupyter lab
 
 ### create and active environment in Ubuntu
 - python3 -m venv myenv
