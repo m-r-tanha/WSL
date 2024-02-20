@@ -55,3 +55,5 @@ pip3 install jupyter
 - Make your changes in the file.
 - To save the changes, press Ctrl + O, then press Enter.
 - To exit Nano, press Ctrl + X.
+### Unzip
+unzip -q matlab_R2023b_glnxa64.zip -d matlab_for_UB
